@@ -1,0 +1,5 @@
+# project_web_scraping
+web scraping resources:
+link:<https://realpython.com/beautiful-soup-web-scraper-python/#reader-comments>
+* requests
+* beautifulsoup
